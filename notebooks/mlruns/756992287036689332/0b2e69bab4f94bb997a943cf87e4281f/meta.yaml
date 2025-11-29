@@ -1,0 +1,14 @@
+artifact_uri: file:///run/media/zain/Local%20Disk/Projects/Python/facial_recognition_system/notebooks/mlruns/756992287036689332/0b2e69bab4f94bb997a943cf87e4281f/artifacts
+end_time: 1764415500183
+entry_point_name: ''
+experiment_id: '756992287036689332'
+lifecycle_stage: active
+run_id: 0b2e69bab4f94bb997a943cf87e4281f
+run_name: facenet_transfer_learning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764415499951
+status: 3
+tags: []
+user_id: zain

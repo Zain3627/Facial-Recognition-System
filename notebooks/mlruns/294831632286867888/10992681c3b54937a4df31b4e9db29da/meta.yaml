@@ -1,0 +1,14 @@
+artifact_uri: file:///run/media/zain/Local%20Disk/Projects/Python/facial_recognition_system/notebooks/mlruns/294831632286867888/10992681c3b54937a4df31b4e9db29da/artifacts
+end_time: 1764415152713
+entry_point_name: ''
+experiment_id: '294831632286867888'
+lifecycle_stage: active
+run_id: 10992681c3b54937a4df31b4e9db29da
+run_name: mercurial-worm-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764414731914
+status: 3
+tags: []
+user_id: zain

@@ -1,0 +1,14 @@
+artifact_uri: file:///run/media/zain/Local%20Disk/Projects/Python/facial_recognition_system/notebooks/mlruns/294831632286867888/c725f89be4cc48d7b61ce6dd80ae11e9/artifacts
+end_time: 1764415152768
+entry_point_name: ''
+experiment_id: '294831632286867888'
+lifecycle_stage: active
+run_id: c725f89be4cc48d7b61ce6dd80ae11e9
+run_name: data_preparation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764415152726
+status: 3
+tags: []
+user_id: zain

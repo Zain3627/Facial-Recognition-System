@@ -1,0 +1,5 @@
+Dataset Link:
+https://www.kaggle.com/datasets/jessicali9530/lfw-dataset
+
+FaceNet baseline model:
+https://www.kaggle.com/models/faiqueali/facenet-tensorflow?select=variables
