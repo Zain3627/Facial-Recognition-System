@@ -1,0 +1,14 @@
+artifact_uri: file:///run/media/zain/Local%20Disk/Projects/Python/facial_recognition_system/notebooks/mlruns/396558156971149521/6602efc551d44a29b992ef080ac16341/artifacts
+end_time: 1764528525430
+entry_point_name: ''
+experiment_id: '396558156971149521'
+lifecycle_stage: active
+run_id: 6602efc551d44a29b992ef080ac16341
+run_name: bustling-sloth-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764528489292
+status: 3
+tags: []
+user_id: zain

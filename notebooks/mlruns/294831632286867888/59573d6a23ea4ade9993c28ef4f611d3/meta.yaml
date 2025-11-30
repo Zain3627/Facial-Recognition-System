@@ -1,0 +1,14 @@
+artifact_uri: file:///run/media/zain/Local%20Disk/Projects/Python/facial_recognition_system/notebooks/mlruns/294831632286867888/59573d6a23ea4ade9993c28ef4f611d3/artifacts
+end_time: 1764528402862
+entry_point_name: ''
+experiment_id: '294831632286867888'
+lifecycle_stage: active
+run_id: 59573d6a23ea4ade9993c28ef4f611d3
+run_name: selective-hound-939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764528361754
+status: 3
+tags: []
+user_id: zain

@@ -1,0 +1,14 @@
+artifact_uri: file:///run/media/zain/Local%20Disk/Projects/Python/facial_recognition_system/notebooks/mlruns/396558156971149521/03ef53ff568b4ee2a64c41cf2303f024/artifacts
+end_time: 1764528525466
+entry_point_name: ''
+experiment_id: '396558156971149521'
+lifecycle_stage: active
+run_id: 03ef53ff568b4ee2a64c41cf2303f024
+run_name: facenet_baseline_knn
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764528525434
+status: 3
+tags: []
+user_id: zain
