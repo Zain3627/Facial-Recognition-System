@@ -221,10 +221,13 @@ EMBEDDING_BATCH_SIZE = 32      # Batch size for embedding extraction
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## 👤 Authors
 
-**Zain** - [GitHub](https://github.com/Zain3627)
-
+**Zain Tamer** - [GitHub](https://github.com/Zain3627)
+**Basel Tarek** 
+**Mohammed Essam**
+**Mostafa Sayed**
+**Naser Ali**
 ---
 
 ⭐ Star this repository if you found it helpful!
