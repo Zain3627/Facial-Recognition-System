@@ -2,6 +2,10 @@ streamlit
 numpy
 tensorflow
 pillow
-streamlit-webrtc
-av
 mlflow
+mtcnn
+opencv-python
+albumentations
+scikit-learn
+tqdm
+mediapipe

@@ -29,6 +29,14 @@
 \usepackage{enumitem}
 \usepackage{booktabs}
 \usepackage{pgfgantt}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows, positioning}
+
+% TikZ styles for UML diagrams
+\tikzstyle{actor} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm, text centered, draw=black, fill=blue!10]
+\tikzstyle{usecase} = [ellipse, minimum width=2.5cm, minimum height=1cm, text centered, draw=black, fill=green!10]
+\tikzstyle{deployment} = [rectangle, rounded corners, minimum width=3cm, minimum height=1.5cm, text centered, draw=black, fill=orange!10, align=center]
+
 \geometry{margin=1in}
 
 % Page layout
@@ -77,15 +85,16 @@
        \large  CLS \\
        \large  ONL3\_AIS2\_S6 \\
        \large Project Documentation}
-\author{Team members \\
-        \vspace{0.5cm} \\
-        \begin{tabular}{ll}
-        21019073 & Basel Tarek Abdelmonsif \\
-        21015768 & Mohammed Essam Shehata \\
-        21016323 & Mostafa Sayed Salah \\
-        21045220 & Naser Ali Naser \\
-        21106079 & Zain Tamer Zain El-Abdin Awad \\
-        \end{tabular}}
+\author{%
+Team members\\[0.5cm]
+\begin{tabular}{ll}
+21019073 & Basel Tarek Abdelmonsif \\
+21015768 & Mohammed Essam Shehata \\
+21016323 & Mostafa Sayed Salah \\
+21045220 & Naser Ali Naser \\
+21106079 & Zain Tamer Zain El-Abdin Awad \\
+\end{tabular}%
+}
 \date{}
 
 \begin{document}
@@ -118,7 +127,7 @@ The system is deployed using a web application based on Streamlit, which offers 
 \newpage
 
 % Chapter 1
-\chapter{Project Planning & Management}
+\chapter{Project Planning \& Management}
 
 \section{Project Overview}
 
@@ -488,7 +497,7 @@ There are different challenges facing traditional facial recognition systems:
 \subsection{Project Objectives}
 
 \begin{enumerate}
-    \item \textbf{Develop Robust Recognition System}: Implement FaceNet architecture with transfer learning achieving >80\% accuracy on LFW dataset
+    \item \textbf{Develop Robust Recognition System}: Implement FaceNet architecture with transfer learning achieving >89\% accuracy on LFW dataset
     
     \item \textbf{Build Complete Data Pipeline}: Create preprocessing and augmentation pipeline for LFW dataset with face detection and alignment
     
@@ -604,7 +613,7 @@ FR8 & Visualize performance metrics (accuracy, ROC, confusion matrix) \\
 \hline
 \textbf{Category} & \textbf{Requirements} \\
 \hline
-Performance & Response time <5s, Accuracy >80\% \\
+Performance & Response time <5s, Accuracy >89\% \\
 Security & Data capsulation and hiding \\
 Usability & Simple and interactrive UI\\
 
@@ -726,9 +735,9 @@ The system follows a \textbf{Microservices Architecture} with the following char
 \chapter{Testing \& Quality Assurance}
 
 \section{Model Performance Evaluation}
-The initial evaluation of the pre-trained FaceNet model on our dataset yielded an accuracy of approximately 70\%. To improve this performance, we applied transfer learning techniques using augmented data to fine-tune the model for our specific environment and conditions.
+The initial evaluation of the pre-trained FaceNet model on our dataset yielded an accuracy of approximately 82\%. To improve this performance, we applied transfer learning techniques using augmented data to fine-tune the model for our specific environment and conditions.
 
-After the transfer learning process, the model's accuracy significantly improved to 80\%. This enhancement demonstrates the effectiveness of domain adaptation and data augmentation in robustifying the facial recognition system.
+After the transfer learning process, the model's accuracy significantly improved to 89\%. This enhancement demonstrates the effectiveness of domain adaptation and data augmentation in robustifying the facial recognition system.
 
 \section{Test Cases \& Test Plan}
 The testing strategy focused on verifying both the functional requirements of the application and the performance of the machine learning model.
@@ -783,4 +792,4 @@ Import Errors & `ModuleNotFoundError` for app modules when running from root. & 
 \end{tabular}
 \end{table}
 
-\newpage
+\end{document}

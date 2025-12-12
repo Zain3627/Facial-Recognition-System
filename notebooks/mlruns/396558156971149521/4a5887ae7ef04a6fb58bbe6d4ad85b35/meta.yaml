@@ -1,0 +1,14 @@
+artifact_uri: file:///run/media/zain/Local%20Disk/Projects/Python/facial_recognition_system/notebooks/mlruns/396558156971149521/4a5887ae7ef04a6fb58bbe6d4ad85b35/artifacts
+end_time: 1765528492365
+entry_point_name: ''
+experiment_id: '396558156971149521'
+lifecycle_stage: active
+run_id: 4a5887ae7ef04a6fb58bbe6d4ad85b35
+run_name: wistful-bird-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765528450246
+status: 3
+tags: []
+user_id: zain

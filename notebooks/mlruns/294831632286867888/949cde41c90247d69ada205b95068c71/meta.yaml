@@ -1,0 +1,14 @@
+artifact_uri: file:///run/media/zain/Local%20Disk/Projects/Python/facial_recognition_system/notebooks/mlruns/294831632286867888/949cde41c90247d69ada205b95068c71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '294831632286867888'
+lifecycle_stage: active
+run_id: 949cde41c90247d69ada205b95068c71
+run_name: classy-mouse-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765525637608
+status: 1
+tags: []
+user_id: zain

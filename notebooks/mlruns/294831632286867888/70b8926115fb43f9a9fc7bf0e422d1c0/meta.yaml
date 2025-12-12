@@ -1,0 +1,14 @@
+artifact_uri: file:///run/media/zain/Local%20Disk/Projects/Python/facial_recognition_system/notebooks/mlruns/294831632286867888/70b8926115fb43f9a9fc7bf0e422d1c0/artifacts
+end_time: 1765528203488
+entry_point_name: ''
+experiment_id: '294831632286867888'
+lifecycle_stage: active
+run_id: 70b8926115fb43f9a9fc7bf0e422d1c0
+run_name: dapper-jay-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765528138300
+status: 3
+tags: []
+user_id: zain
